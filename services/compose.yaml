@@ -1,0 +1,7 @@
+services:
+  message-queue:
+    image: redis:latest
+    container_name: services-queue
+    ports:
+      - "4003:6379"
+    
