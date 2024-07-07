@@ -1,6 +1,7 @@
 #!/bin/bash
+pnpm run server &
+jest /services/tests
 
-jest
 docker compose down
 docker compose rm
 
