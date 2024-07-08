@@ -46,3 +46,13 @@ and this project adheres to [Semantic Versioning].
     ```
 
 - Added concurrently for executing /services script
+
+
+## [pre-dev-0.0.3] - 2024-07-08
+
+Branch : feature/002/campaigns-ui
+
+### Added
+
+- ShadCN Charts 
+- Components for campaigns user storys ( All the atoms )
